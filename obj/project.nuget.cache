@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xUpZb33yVCicZxzpa8Ko0Tyv52sSU6sRtqHHwc3c2igk5T1eOwHR0HfYZgRKOiNHQ1dcodh6mMRSqbmiG4Rk5g==",
+  "success": true,
+  "projectFilePath": "D:\\Projeto de curso\\mvc_entity\\mvc_entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devju\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
